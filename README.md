@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @williambishop555
 - 👀 I’m interested in film, art and programming
-- 🌱 I’m currently learning C#, Godot, Processing
+- 🌱 I’m currently learning Lua, Love2D, C#, Godot, Processing
 - 💞️ I’m looking to collaborate on Games and interactive projects.
 - 📫 How to reach me williambishop555@gmail.com
 
